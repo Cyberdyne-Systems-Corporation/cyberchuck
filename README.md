@@ -1,10 +1,10 @@
 # SSH Config GUI (Cyberchuck)
 
-![Cyberchuck Icon](assets/cyberchuck.ico)
+![Cyberchuck Icon](https://github.com/Cyberdyne-Systems-Corporation/cyberchuck/blob/master/assets/cyberchuck.ico)
 
 A GUI tool for managing ssh configuration files. (Bookmarks for your servers and databases.)
 
-learn more: ![https://sites.google.com/view/cyberchuck](https://sites.google.com/view/cyberchuck)
+learn more: [https://sites.google.com/view/cyberchuck/home](https://sites.google.com/view/cyberchuck/home)
 
 Here you can download the full version as appstores have restrictions on apps like this.
 
